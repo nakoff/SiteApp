@@ -1,5 +1,5 @@
 # SiteApp
-application for site
+Приложение для заказа еды
 
 https://youtu.be/lqudJLVrDbg
 
