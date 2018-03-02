@@ -43,7 +43,7 @@ function scene:show( event )
           "comment='Заказ с мобильного приложения'&"..
           "url=rolly/sety/a-14",
         progress="download"}
-      network.request("http://www.yaponchik.ga/api2", "POST", getAPI,params)
+      network.request("http://www.xn--04-vlcinfg0e8c.xn--p1ai/api2", "POST", getAPI,params)
     end
     
     --//////////// кнопка ОФОРМИТЬ ////////
