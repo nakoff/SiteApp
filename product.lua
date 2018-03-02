@@ -3,7 +3,7 @@ local composer    = require( "composer" )
 local wrap        = require("resources.wrap")
 local scene       = composer.newScene()
 local offset      = display.topStatusBarContentHeight
-local url         = "http://www.yaponchik.ga/"
+local url         = "http://xn--04-vlcinfg0e8c.xn--p1ai/"
 
 function scene:show( event )
 	local phase = event.phase
