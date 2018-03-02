@@ -2,7 +2,7 @@ local widget      = require("widget")
 local json        = require ( "json" )
 local composer    = require( "composer" )
 local wrap        = require("resources.wrap")
-local url         = "http://www.yaponchik.ga/"
+local url         = "http://xn--04-vlcinfg0e8c.xn--p1ai/"
 local offset      = display.topStatusBarContentHeight
 local scene       = composer.newScene()
 local topMenu     = {height=70}
