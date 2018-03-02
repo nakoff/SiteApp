@@ -3,7 +3,7 @@ local json        = require ( "json" )
 local composer    = require( "composer" )
 local scene       = composer.newScene()
 local offset      = display.topStatusBarContentHeight
-local url         = "http://www.yaponchik.ga/"
+local url         = "http://xn--04-vlcinfg0e8c.xn--p1ai/"
 local topMenu     = {height=70}
 
 
